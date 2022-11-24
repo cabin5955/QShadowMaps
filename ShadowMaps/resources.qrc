@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/debug.fs</file>
+        <file>shaders/debug.vs</file>
+        <file>shaders/depth.fs</file>
+        <file>shaders/depth.vs</file>
+        <file>shaders/light.fs</file>
+        <file>shaders/light.vs</file>
+        <file>shaders/quad.fs</file>
+        <file>shaders/quad.vs</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>textures/container.jpg</file>
+        <file>textures/marble.jpg</file>
+        <file>textures/metal.png</file>
+    </qresource>
+</RCC>
